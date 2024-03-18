@@ -1,0 +1,5 @@
+﻿2024-03-16 12:22:51.623 +0530	START		Running properties_list.script
+2024-03-16 12:22:51.679 +0530	Log		List items tutorial	3	on_properties_list	properties_list.script
+2024-03-16 12:22:51.685 +0530	Log		{Address:"Sirsa", Age:33, Firstname:"Sumit", Lastname:"Kumar"}	5	on_properties_list	properties_list.script
+2024-03-16 12:22:51.706 +0530	EndTestCase		(Duration:"0.075", Errors:"1", Exceptions:"0", StartTime:"2024-03-16 12:22:51 +0530", Successes:"0", TestCase:"properties_list.script", Warnings:"0")
+2024-03-16 12:22:51.786 +0530	FAILURE		STInvalidCommand: Improper use of delete command on {Address:"Sirsa", Age:33, Firstname:"Sumit", Lastname:"Kumar"} -- Execution Time 0:00:00 properties_list.script

@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running properties_list.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 12:41:41.058 +0530"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:41:41.112 +0530",
+				"message": "List items tutorial",
+				"scriptName": "properties_list.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:41:41.120 +0530",
+				"message": "{Address:\"Sirsa\", Age:33, Firstname:\"Sumit\", Lastname:\"Kumar\"}",
+				"scriptName": "properties_list.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:41:41.125 +0530",
+				"message": "{Address:\"Sirsa\", Firstname:\"Sumit\", Lastname:\"Kumar\"}",
+				"scriptName": "properties_list.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:41:41.130 +0530",
+				"message": "Adding item into list",
+				"scriptName": "properties_list.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:41:41.136 +0530",
+				"message": "{Address:\"Sirsa\", Age:33, car:\"honda\", Firstname:\"Sumit\", Lastname:\"Kumar\"}",
+				"scriptName": "properties_list.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.097\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-16 12:41:41 +0530\", Successes:\"1\", TestCase:\"properties_list.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 12:41:41.161 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 properties_list.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-16 12:41:41.244 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 12:41:41.063 +0530"
+}

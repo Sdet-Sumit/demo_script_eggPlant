@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="properties_list">
+ <run>
+  <RunDate>2024-03-16 12:21:37.628 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.105000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240316_122137.628/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:22:51.608 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.096000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240316_122251.608/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidCommand -- Improper use of delete command on {Address:&quot;Sirsa&quot;, Age:33, Firstname:&quot;Sumit&quot;, Lastname:&quot;Kumar&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:23:27.072 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.106000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240316_122327.072/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidCommand -- Improper use of delete command on {Address:&quot;Sirsa&quot;, Age:33, Firstname:&quot;Sumit&quot;, Lastname:&quot;Kumar&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:23:37.084 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.706000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240316_122337.084/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidCommand -- Improper use of delete command on {Address:&quot;Sirsa&quot;, Age:33, Firstname:&quot;Sumit&quot;, Lastname:&quot;Kumar&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:24:44.962 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.040000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240316_122444.962/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in properties_list:
+Syntax Error at line 7: can&#x27;t understand &quot;Age&quot; at character 15</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:25:53.717 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.113000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240316_122553.717/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:41:26.158 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.132000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240316_124126.158/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-16 12:41:41.042 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.117000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240316_124141.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

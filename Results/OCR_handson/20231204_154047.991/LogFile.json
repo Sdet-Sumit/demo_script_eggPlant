@@ -1,0 +1,90 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR_handson.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 15:40:48.003 +0530"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:40:48.111 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "OCR_handson.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:02.766 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:14.955 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:15.251 +0530",
+				"message": "demo.nopcommerce.com[return]",
+				"scriptName": "OCR_handson.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:23.435 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "found at (950, 410)",
+				"image": "(TEXT:\"Welcome to our store\")",
+				"handlerLine": 9,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:24.723 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "at (974, 294)",
+				"image": "(TEXT:\"Digital downloads\")",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:31.606 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "found at (705, 542)",
+				"image": "(TEXT:\"Sort by\")",
+				"handlerLine": 15,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2023-12-04 15:41:33.258 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "at [483,286,569,303]",
+				"image": "(TEXT:\"Computers\")",
+				"handlerLine": 21,
+				"identifier": "imagerectangle"
+			},
+		{
+				"message": "(Duration:\"45.297\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-04 15:40:48 +0530\", Successes:\"1\", TestCase:\"OCR_handson.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 15:41:33.308 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:45 OCR_handson.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-04 15:41:33.404 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 15:40:48.009 +0530"
+}

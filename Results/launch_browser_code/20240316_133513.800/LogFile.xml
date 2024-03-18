@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="launch_browser_code_script" package="demo_eggplant.suite" timestamp="2024-03-16 13:35:13.800 +0530"
+ tests="1"  failures="1" errors="0" time="135.084000">
+  <properties>
+   <property name="RunDate" value="2024-03-16 13:35:13.800 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="launch_browser_code.script" assertions="1" status="failure"  time="135.057">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;select&apos; -- Execution Time 0:02:15 launch_browser_code.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

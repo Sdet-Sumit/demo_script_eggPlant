@@ -1,0 +1,6 @@
+﻿//global_var3
+Log "from local_var2"
+//Put "Global Varibale is " && global greeting
+Log "Global variable is" && global greeting
+
+Log "End of global_v3"

@@ -1,0 +1,102 @@
+{
+	"originalcapturelocation": [
+		6,
+		100,
+		74,
+		92
+	],
+	"lastmodifieddate": 1710494884.809,
+	"createddate": 1702109128.2950001,
+	"name": "chrome_icon",
+	"lastfounddate": 1701684823.4579999,
+	"ocrcapturestring": "6",
+	"lastfoundlocation": [
+		6,
+		100,
+		74,
+		92
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,46]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrome_icon/chrome_icon.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					6,
+					100,
+					74,
+					92
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "6"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,46]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrome_icon/chrome_icon.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					6,
+					100,
+					74,
+					92
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "6"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,46]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrome_icon/chrome_icon_new.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					6,
+					100,
+					74,
+					92
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Access t"
+			}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_browser_code.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 13:12:04.494 +0530"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:12:04.602 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:12:04.830 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 5,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:12:12.230 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:12:12.347 +0530",
+				"message": "[return]",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"7.887\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-16 13:12:04 +0530\", Successes:\"1\", TestCase:\"launch_browser_code.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 13:12:12.391 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 launch_browser_code.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-16 13:12:12.497 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 13:12:04.502 +0530"
+}

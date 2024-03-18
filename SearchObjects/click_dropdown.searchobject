@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		738,
+		520,
+		177,
+		52
+	],
+	"lastmodifieddate": 1710576088.618,
+	"createddate": 1710576088.618,
+	"name": "click_dropdown",
+	"lastfounddate": 1710576511.5409999,
+	"ocrcapturestring": "Position",
+	"lastfoundlocation": [
+		738,
+		520,
+		177,
+		52
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[88,26]",
+					"Tolerance": "_40",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "click_dropdown.png",
+				"connectionname": "192.168.1.6",
+				"type": 1,
+				"connectionserverid": "192.168.1.6",
+				"capturerect": [
+					738,
+					520,
+					177,
+					52
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Position"
+			}
+	]
+}

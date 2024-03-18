@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		134,
+		56,
+		544,
+		64
+	],
+	"lastmodifieddate": 1710488425.437,
+	"createddate": 1702034501.0019999,
+	"name": "Qhttpswvvwgooglecom",
+	"lastfounddate": 1702034501.164,
+	"ocrcapturestring": "Q https://wvvw.google.com",
+	"lastfoundlocation": [
+		134,
+		56,
+		544,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[272,32]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Qhttpswvvwgooglecom.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					134,
+					56,
+					544,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q https://wvvw.google.com"
+			}
+	]
+}

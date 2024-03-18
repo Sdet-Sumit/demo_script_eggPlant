@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="OCR_handson_script" package="demo_eggplant.suite" timestamp="2024-03-18 14:59:03.165 +0530"
+ tests="1"  failures="0" errors="0" time="-9244440.815000">
+  <properties>
+   <property name="RunDate" value="2024-03-18 14:59:03.165 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="OCR_handson.script" assertions="1" status="error"  time="-9244440.826">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;(TEXT:&quot;Search Google or type a URL&quot;)&quot; within 20.00 seconds. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

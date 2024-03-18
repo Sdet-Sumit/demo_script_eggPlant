@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running properties_list.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 12:22:51.623 +0530"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:22:51.679 +0530",
+				"message": "List items tutorial",
+				"scriptName": "properties_list.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:22:51.685 +0530",
+				"message": "{Address:\"Sirsa\", Age:33, Firstname:\"Sumit\", Lastname:\"Kumar\"}",
+				"scriptName": "properties_list.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.075\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-16 12:22:51 +0530\", Successes:\"0\", TestCase:\"properties_list.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 12:22:51.706 +0530"
+			},
+		{
+				"message": "STInvalidCommand: Improper use of delete command on {Address:\"Sirsa\", Age:33, Firstname:\"Sumit\", Lastname:\"Kumar\"} -- Execution Time 0:00:00 properties_list.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-16 12:22:51.786 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 12:22:51.629 +0530"
+}

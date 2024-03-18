@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		400,
+		82,
+		664,
+		62
+	],
+	"lastmodifieddate": 1710498006.2579999,
+	"createddate": 1710498006.2579999,
+	"name": "click_search_box",
+	"lastfounddate": 1710499792.5549998,
+	"ocrcapturestring": "Search Amazon.in",
+	"lastfoundlocation": [
+		399,
+		82,
+		664,
+		62
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[332,31]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "click_search_box.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					400,
+					82,
+					664,
+					62
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Search Amazon.in"
+			}
+	]
+}

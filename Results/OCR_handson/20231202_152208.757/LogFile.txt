@@ -1,0 +1,6 @@
+﻿2023-12-02 15:22:08.762 +0530	START		Running OCR_handson.script
+2023-12-02 15:22:08.831 +0530	Log		Launching Chrome	1	on_ocr_handson	OCR_handson.script
+2023-12-02 15:22:08.977 +0530	doubleclick	chrome_icon	at (43, 146)	4	on_ocr_handson	OCR_handson.script
+2023-12-02 15:22:46.707 +0530	Exception	(TEXT:"Search Google or type a URL")	Unable To Find Any Image On Screen "(TEXT:"Search Google or type a URL")" within 20.00 seconds. Text not found.	5	on_ocr_handson	OCR_handson.script
+2023-12-02 15:22:46.749 +0530	EndTestCase		(Duration:"37.983", Errors:"1", Exceptions:"1", StartTime:"2023-12-02 15:22:08 +0530", Successes:"0", TestCase:"OCR_handson.script", Warnings:"0")
+2023-12-02 15:22:46.899 +0530	FAILURE	Screen_Error.png	Image Not Found: waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Search Google or type a URL")" within 20.00 seconds. Text not found. -- Execution Time 0:00:37 OCR_handson.script

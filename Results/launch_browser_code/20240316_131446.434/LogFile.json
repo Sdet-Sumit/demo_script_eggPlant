@@ -1,0 +1,63 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_browser_code.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 13:14:46.452 +0530"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:14:46.570 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:14:46.790 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 5,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:14:56.308 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:14:56.705 +0530",
+				"message": "demo.nopcommerce.com[return]",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:15:03.916 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (951, 910)",
+				"image": "(TEXT:\"Welcome to our store\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"17.602\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-16 13:14:46 +0530\", Successes:\"1\", TestCase:\"launch_browser_code.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 13:15:04.061 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:17 launch_browser_code.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-16 13:15:04.154 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 13:14:46.458 +0530"
+}

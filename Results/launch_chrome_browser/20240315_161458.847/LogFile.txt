@@ -1,0 +1,15 @@
+﻿2024-03-15 16:14:58.866 +0530	START		Running launch_chrome_browser.script
+2024-03-15 16:14:59.078 +0530	doubleclick	chrome_icon	at (43, 146)	1	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:09.892 +0530	click	click_on_addressbar	at (506, 77)	3	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:10.684 +0530	typetext		amazon[return]	4	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:13.834 +0530	click	click_on_first_link	at (364, 367)	9	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:28.994 +0530	click	click_search_box	at (738, 113)	13	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:29.878 +0530	typetext		oneplus 11r 5g	14	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:44.994 +0530	click	click_on_search_icon	at (1454, 115)	16	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:15:56.249 +0530	click	HellosigninAccountLists_click	at (1646, 114)	18	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:16:04.565 +0530	click	CreateyourAmazonaccount_signup_btn	at (962, 578)	19	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:16:05.407 +0530	typetext		Test Test[tab]	20	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:16:10.562 +0530	typetext		9466731805[tab]	22	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:16:15.703 +0530	typetext		Sumit225@[tab]	24	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:16:20.748 +0530	EndTestCase		(Duration:"81.876", Errors:"0", Exceptions:"0", StartTime:"2024-03-15 16:14:58 +0530", Successes:"1", TestCase:"launch_chrome_browser.script", Warnings:"0")
+2024-03-15 16:16:20.806 +0530	SUCCESS		Execution Time 0:01:21 launch_chrome_browser.script

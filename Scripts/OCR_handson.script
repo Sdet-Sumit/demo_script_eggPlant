@@ -1,0 +1,22 @@
+﻿Log "Launching Chrome"
+put "chrome_icon1" into global chrome_icon
+
+	DoubleClick "chrome_icon"
+	WaitFor 20, text:"Search Google or type a URL"
+	
+	//Put "" into global search_var
+	TypeText "demo.nopcommerce.com",Return
+	Waitfor 20, text:"Welcome to our store"
+	
+	//put "Digital downloads" into global digital_downloads_navBar
+	
+	//click 
+	Click text:"Digital downloads"
+	WaitFor 20, text:"Sort by"
+	
+	//Put ImageRectangle(text:"Computers",waitfor //1) into categories
+	
+	//Put ImageRectangle(
+	//text:"LONDONGRAWKR", waitFor:1) into myCat
+	Put ImageRectangle(text:"Computers", waitFor:1)  into MyCat
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="launch_browser_code_script" package="demo_eggplant.suite" timestamp="2024-03-16 13:08:21.896 +0530"
+ tests="1"  failures="0" errors="0" time="52.859000">
+  <properties>
+   <property name="RunDate" value="2024-03-16 13:08:21.896 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="launch_browser_code.script" assertions="1" status="success"  time="52.844">
+  </testcase>
+ </testsuite>
+</testsuites>

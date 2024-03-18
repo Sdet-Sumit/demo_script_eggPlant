@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-16 12:21:37.628 +0530,"Success",0:00:00,0,0,0,"20240316_122137.628/LogFile.txt","","",1
+2024-03-16 12:22:51.608 +0530,"Failure",0:00:00,1,0,0,"20240316_122251.608/LogFile.txt","","STInvalidCommand -- Improper use of delete command on {Address:""Sirsa"", Age:33, Firstname:""Sumit"", Lastname:""Kumar""}",0
+2024-03-16 12:23:27.072 +0530,"Failure",0:00:00,1,0,0,"20240316_122327.072/LogFile.txt","","STInvalidCommand -- Improper use of delete command on {Address:""Sirsa"", Age:33, Firstname:""Sumit"", Lastname:""Kumar""}",0
+2024-03-16 12:23:37.084 +0530,"Failure",0:00:10,1,0,0,"20240316_122337.084/LogFile.txt","","STInvalidCommand -- Improper use of delete command on {Address:""Sirsa"", Age:33, Firstname:""Sumit"", Lastname:""Kumar""}",0
+2024-03-16 12:24:44.962 +0530,"Failure",0:00:00,1,0,0,"20240316_122444.962/LogFile.txt","","SenseTalk Compiler Exception -- in properties_list:\nSyntax Error at line 7: can't understand ""Age"" at character 15",0
+2024-03-16 12:25:53.717 +0530,"Success",0:00:00,0,0,0,"20240316_122553.717/LogFile.txt","","",1
+2024-03-16 12:41:26.158 +0530,"Success",0:00:00,0,0,0,"20240316_124126.158/LogFile.txt","","",1
+2024-03-16 12:41:41.042 +0530,"Success",0:00:00,0,0,0,"20240316_124141.042/LogFile.txt","","",1

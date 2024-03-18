@@ -1,0 +1,6 @@
+﻿2024-03-18 13:20:13.844 +0530	START		Running OCR_handson.script
+2024-03-18 13:20:13.934 +0530	Log		Launching Chrome	1	on_ocr_handson	OCR_handson.script
+2024-03-18 13:20:14.152 +0530	doubleclick	chrome_icon	at (822, 641)	3	on_ocr_handson	OCR_handson.script
+2024-03-18 13:20:19.874 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	4	on_ocr_handson	OCR_handson.script
+2024-03-18 13:20:19.957 +0530	EndTestCase		(Duration:"6.107", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 13:20:13 +0530", Successes:"0", TestCase:"OCR_handson.script", Warnings:"0")
+2024-03-18 13:20:19.980 +0530	ABORTED		Execution Time 0:00:06 OCR_handson.script

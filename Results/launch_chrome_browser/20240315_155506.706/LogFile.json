@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_chrome_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 15:55:06.723 +0530"
+			},
+		{
+				"message": "(Duration:\"83.042\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-15 15:55:06 +0530\", Successes:\"0\", TestCase:\"launch_chrome_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 15:56:29.772 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:23 launch_chrome_browser.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-15 15:56:29.794 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 15:55:06.728 +0530"
+}

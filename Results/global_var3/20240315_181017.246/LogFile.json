@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running global_var3.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 18:10:17.252 +0530"
+			},
+		{
+				"handlerName": "on_global_var3",
+				"timestamp": "2024-03-15 18:10:17.283 +0530",
+				"message": "from local_var2",
+				"scriptName": "global_var3.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_global_var3",
+				"timestamp": "2024-03-15 18:10:17.287 +0530",
+				"message": "Global variable is ",
+				"scriptName": "global_var3.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_global_var3",
+				"timestamp": "2024-03-15 18:10:17.291 +0530",
+				"message": "End of global_v3",
+				"scriptName": "global_var3.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.055\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-15 18:10:17 +0530\", Successes:\"1\", TestCase:\"global_var3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 18:10:17.312 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 global_var3.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-15 18:10:17.368 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 18:10:17.257 +0530"
+}

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="OCR_handson">
+ <run>
+  <RunDate>2024-03-18 13:19:47.604 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3.678000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240318_131947.604/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 13:20:13.832 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>6.122000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240318_132013.832/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 13:31:26.101 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>4.532000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240318_133126.101/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 14:58:09.426 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>46.936000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240318_145809.426/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-18 14:59:03.165 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>-9244440.815000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240318_145903.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-02 15:21:33.144 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.011000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231202_152133.144/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in ocr_handson:
+Syntax Error at line 23: can&#x27;t understand [end of script] at character 12</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-02 15:21:56.786 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231202_152156.786/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in ocr_handson:
+Syntax Error at line 23: can&#x27;t understand [end of script] at character 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-02 15:22:08.757 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>37.992000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231202_152208.757/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Search Google or type a URL&quot;)&quot; within 20.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-04 15:40:09.570 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>19.342000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231204_154009.570/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-04 15:40:47.991 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>45.315000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20231204_154047.991/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-04 15:43:27.494 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>51.174000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20231204_154327.494/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

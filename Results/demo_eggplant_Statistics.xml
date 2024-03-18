@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="local_var1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-15 17:46:06 +0530</FirstRun>
+  <LastRun>2024-03-15 18:04:28 +0530</LastRun>
+  <TotalTimeOnSuccess>0.340000</TotalTimeOnSuccess>
+ </script>
+ <script name="global_var3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-15 18:10:17 +0530</FirstRun>
+  <LastRun>2024-03-15 18:10:17 +0530</LastRun>
+  <TotalTimeOnSuccess>0.065000</TotalTimeOnSuccess>
+ </script>
+ <script name="OCR_handson">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2023-12-02 15:21:33 +0530</FirstRun>
+  <LastRun>2023-12-04 15:43:27 +0530</LastRun>
+  <TotalTimeOnSuccess>96.489000</TotalTimeOnSuccess>
+ </script>
+ <script name="launch_browser_code">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2024-03-16 12:58:32 +0530</FirstRun>
+  <LastRun>2024-03-18 13:13:26 +0530</LastRun>
+  <TotalTimeOnSuccess>235.724000</TotalTimeOnSuccess>
+ </script>
+ <script name="calling_of_local_var">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-03-15 18:05:02 +0530</FirstRun>
+  <LastRun>2024-03-16 10:59:52 +0530</LastRun>
+  <TotalTimeOnSuccess>82.833000</TotalTimeOnSuccess>
+ </script>
+ <script name="launch_chrome_browser">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-12-09 13:36:13 +0530</FirstRun>
+  <LastRun>2024-03-15 16:14:58 +0530</LastRun>
+  <TotalTimeOnSuccess>303.875000</TotalTimeOnSuccess>
+ </script>
+ <script name="properties_list">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2024-03-16 12:21:37 +0530</FirstRun>
+  <LastRun>2024-03-16 12:41:41 +0530</LastRun>
+  <TotalTimeOnSuccess>0.467000</TotalTimeOnSuccess>
+ </script>
+</statistics>

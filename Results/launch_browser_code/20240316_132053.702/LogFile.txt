@@ -1,0 +1,9 @@
+﻿2024-03-16 13:20:53.715 +0530	START		Running launch_browser_code.script
+2024-03-16 13:20:53.779 +0530	Log		Launching Chrome	3	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:20:54.014 +0530	doubleclick	chrome_icon	at (43, 146)	5	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:21:02.800 +0530	waitfor	(TEXT:"Search Google or type a URL")	found at (832, 405)	6	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:21:03.223 +0530	typetext		demo.nopcommerce.com[return]	9	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:21:09.161 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 410)	10	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:21:10.999 +0530	click	(TEXT:"Digital downloads")	at (974, 294)	15	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:21:11.024 +0530	EndTestCase		(Duration:"17.303", Errors:"0", Exceptions:"0", StartTime:"2024-03-16 13:20:53 +0530", Successes:"1", TestCase:"launch_browser_code.script", Warnings:"0")
+2024-03-16 13:21:11.123 +0530	SUCCESS		Execution Time 0:00:17 launch_browser_code.script

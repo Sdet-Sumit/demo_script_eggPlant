@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running properties_list.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 12:25:53.724 +0530"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:25:53.790 +0530",
+				"message": "List items tutorial",
+				"scriptName": "properties_list.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:25:53.803 +0530",
+				"message": "{Address:\"Sirsa\", Age:33, Firstname:\"Sumit\", Lastname:\"Kumar\"}",
+				"scriptName": "properties_list.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_properties_list",
+				"timestamp": "2024-03-16 12:25:53.809 +0530",
+				"message": "{Address:\"Sirsa\", Firstname:\"Sumit\", Lastname:\"Kumar\"}",
+				"scriptName": "properties_list.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.102\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-16 12:25:53 +0530\", Successes:\"1\", TestCase:\"properties_list.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 12:25:53.832 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 properties_list.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-16 12:25:53.911 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 12:25:53.729 +0530"
+}

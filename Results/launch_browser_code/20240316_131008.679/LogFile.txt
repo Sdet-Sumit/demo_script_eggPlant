@@ -1,0 +1,8 @@
+﻿2024-03-16 13:10:08.695 +0530	START		Running launch_browser_code.script
+2024-03-16 13:10:08.802 +0530	Log		Launching Chrome	3	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:10:09.024 +0530	doubleclick	chrome_icon	at (43, 146)	5	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:11:15.985 +0530	OCRUpdateWarning	(TEXT:"Search Google or type URL")	Found Text -- Using TextDifference:2
+2024-03-16 13:11:17.155 +0530	waitfor	(TEXT:"Search Google or type URL")	found at (832, 405)	6	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:11:17.234 +0530	typetext		[return]	9	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:11:17.259 +0530	EndTestCase		(Duration:"68.557", Errors:"0", Exceptions:"0", StartTime:"2024-03-16 13:10:08 +0530", Successes:"1", TestCase:"launch_browser_code.script", Warnings:"0")
+2024-03-16 13:11:17.357 +0530	SUCCESS		Execution Time 0:01:08 launch_browser_code.script

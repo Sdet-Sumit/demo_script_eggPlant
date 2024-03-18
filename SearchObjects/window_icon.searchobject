@@ -1,0 +1,105 @@
+{
+	"originalcapturelocation": [
+		0,
+		1016,
+		64,
+		64
+	],
+	"lastmodifieddate": 1710488412.2820001,
+	"createddate": 1710415919.7280002,
+	"name": "window_icon",
+	"lastfounddate": 1710417390.25,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		0,
+		1016,
+		64,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "window_icon/window_icon.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					0,
+					1016,
+					64,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			},
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "window_icon/window_icon_new.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					0,
+					1016,
+					64,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			},
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_30",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "window_icon/window_icon_new.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					0,
+					1016,
+					64,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		28,
+		280,
+		296,
+		88
+	],
+	"lastmodifieddate": 1710497855.776,
+	"createddate": 1710497855.776,
+	"name": "click_on_first_link",
+	"lastfounddate": 1710499777.4229999,
+	"ocrcapturestring": "Sponsored g Amazon.in https://www.amazon.in •",
+	"lastfoundlocation": [
+		216,
+		323,
+		296,
+		88
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[148,44]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "click_on_first_link.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					28,
+					280,
+					296,
+					88
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Sponsored g Amazon.in https://www.amazon.in •"
+			}
+	]
+}

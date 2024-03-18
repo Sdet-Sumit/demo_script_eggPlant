@@ -1,0 +1,13 @@
+﻿2024-03-16 10:59:11.926 +0530	START		Running calling_of_local_var.script
+2024-03-16 10:59:17.452 +0530	Log		from local_var1	5	on_local_var1	local_var1.script
+2024-03-16 10:59:17.464 +0530	Log		Local variable is Hello	7	on_local_var1	local_var1.script
+2024-03-16 10:59:17.468 +0530	Log		End of local_var1	9	on_local_var1	local_var1.script
+2024-03-16 10:59:17.474 +0530	Log		**********	6	on_calling_of_local_var	calling_of_local_var.script
+2024-03-16 10:59:17.482 +0530	Log		Global Variable is Hello Globally	4	on_local_var2	local_var2.script
+2024-03-16 10:59:17.489 +0530	Log		End of global_var2	6	on_local_var2	local_var2.script
+2024-03-16 10:59:17.495 +0530	Log		*********	10	on_calling_of_local_var	calling_of_local_var.script
+2024-03-16 10:59:17.509 +0530	Log		from local_var2	2	on_global_var3	global_var3.script
+2024-03-16 10:59:17.513 +0530	Log		Global variable is Hello Globally	4	on_global_var3	global_var3.script
+2024-03-16 10:59:17.517 +0530	Log		End of global_v3	6	on_global_var3	global_var3.script
+2024-03-16 10:59:17.537 +0530	EndTestCase		(Duration:"5.604", Errors:"0", Exceptions:"0", StartTime:"2024-03-16 10:59:11 +0530", Successes:"1", TestCase:"calling_of_local_var.script", Warnings:"0")
+2024-03-16 10:59:17.584 +0530	SUCCESS		Execution Time 0:00:05 calling_of_local_var.script

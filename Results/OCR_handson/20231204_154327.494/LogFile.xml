@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="OCR_handson_script" package="demo_eggplant.suite" timestamp="2023-12-04 15:43:27.494 +0530"
+ tests="1"  failures="0" errors="0" time="51.174000">
+  <properties>
+   <property name="RunDate" value="2023-12-04 15:43:27.494 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="OCR_handson.script" assertions="1" status="success"  time="51.158">
+  </testcase>
+ </testsuite>
+</testsuites>

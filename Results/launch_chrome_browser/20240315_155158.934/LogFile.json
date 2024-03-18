@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_chrome_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 15:51:58.944 +0530"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:51:59.160 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:52:49.844 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (506, 77)",
+				"image": "click_on_addressbar",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:52:50.646 +0530",
+				"message": "amazon[return]",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"155.224\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-15 15:51:58 +0530\", Successes:\"0\", TestCase:\"launch_chrome_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 15:54:34.177 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:35 launch_chrome_browser.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-15 15:54:34.196 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 15:51:58.950 +0530"
+}

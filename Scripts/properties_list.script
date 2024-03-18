@@ -1,0 +1,14 @@
+﻿//Property list
+
+Log "List items tutorial"
+put {Firstname:Sumit, Lastname:Kumar,Age:33,Address:Sirsa} into Person
+Log person
+
+Delete person.Age
+Log person
+
+//Add items in list
+Log "Adding item into list"
+put {Firstname:Sumit, Lastname:Kumar,Age:33,Address:Sirsa} into Person
+put honda into person.car
+log person

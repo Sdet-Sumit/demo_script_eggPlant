@@ -1,0 +1,91 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_browser_code.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 13:41:25.873 +0530"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:25.990 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:26.227 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 5,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:33.884 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:34.269 +0530",
+				"message": "demo.nopcommerce.com[return]",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:40.097 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (951, 410)",
+				"image": "(TEXT:\"Welcome to our store\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:41.783 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (974, 294)",
+				"image": "(TEXT:\"Digital downloads\")",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:58.931 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (705, 542)",
+				"image": "(TEXT:\"Sort by\")",
+				"handlerLine": 16,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:41:58.945 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "Could Not Open Image: (empty)",
+				"image": "\\t",
+				"handlerLine": 19,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"33.187\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-16 13:41:25 +0530\", Successes:\"0\", TestCase:\"launch_browser_code.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 13:41:59.067 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: (empty) -- Execution Time 0:00:33 launch_browser_code.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-16 13:41:59.368 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 13:41:25.879 +0530"
+}

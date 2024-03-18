@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		178,
+		213,
+		236,
+		64
+	],
+	"lastmodifieddate": 1710497809.6830001,
+	"createddate": 1710497809.6830001,
+	"name": "Allowoneveryvisit",
+	"lastfounddate": 1710497810.359,
+	"ocrcapturestring": "Allow on every visit",
+	"lastfoundlocation": [
+		178,
+		212,
+		236,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[118,32]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Allowoneveryvisit.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					178,
+					213,
+					236,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Allow on every visit"
+			}
+	]
+}

@@ -1,0 +1,123 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_chrome_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 16:12:54.781 +0530"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:12:55.016 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:05.506 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (506, 77)",
+				"image": "click_on_addressbar",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:06.302 +0530",
+				"message": "amazon[return]",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:09.771 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (364, 367)",
+				"image": "click_on_first_link",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:24.943 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (731, 113)",
+				"image": "click_search_box",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:25.826 +0530",
+				"message": "oneplus 11r 5g",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 14,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:40.951 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (1446, 115)",
+				"image": "click_on_search_icon",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:13:55.083 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (1646, 114)",
+				"image": "HellosigninAccountLists_click",
+				"handlerLine": 18,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:14:05.299 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (962, 578)",
+				"image": "CreateyourAmazonaccount_signup_btn",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:14:06.135 +0530",
+				"message": "Test Test[tab]",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 20,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:14:08.307 +0530",
+				"message": "9466731805[tab]",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:14:10.456 +0530",
+				"message": "Sumit225@[tab]",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 24,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"77.691\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-15 16:12:54 +0530\", Successes:\"1\", TestCase:\"launch_chrome_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 16:14:12.480 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:17 launch_chrome_browser.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-15 16:14:12.543 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 16:12:54.786 +0530"
+}

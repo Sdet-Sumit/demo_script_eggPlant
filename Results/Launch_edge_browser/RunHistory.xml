@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Launch_edge_browser">
+ <run>
+  <RunDate>2024-03-14 16:53:00.600 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.166000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_165300.600/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: ￼</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:53:45.152 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.125000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_165345.152/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: ￼</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:54:04.827 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.106000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_165404.827/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: ￼</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:04:53.973 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.017000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_170453.973/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in launch_edge_browser:
+Syntax Error at line 1: can&#x27;t understand &quot;r&quot; at character 21</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:05:11.308 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>65.184000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_170511.308/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:06:20.526 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.274000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_170620.526/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;window_icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:06:48.460 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>79.714000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240314_170648.460/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:08:20.418 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>884.119000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_170820.418/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:23:06.713 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>48.823000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_172306.713/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:26:30.095 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3834.557000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_172630.095/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

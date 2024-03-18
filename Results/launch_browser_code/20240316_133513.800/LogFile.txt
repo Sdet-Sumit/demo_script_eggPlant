@@ -1,0 +1,11 @@
+﻿2024-03-16 13:35:13.820 +0530	START		Running launch_browser_code.script
+2024-03-16 13:35:13.926 +0530	Log		Launching Chrome	3	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:14.162 +0530	doubleclick	chrome_icon	at (43, 146)	5	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:22.028 +0530	waitfor	(TEXT:"Search Google or type a URL")	found at (832, 405)	6	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:22.408 +0530	typetext		demo.nopcommerce.com[return]	9	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:28.329 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 410)	10	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:30.018 +0530	click	(TEXT:"Digital downloads")	at (974, 294)	15	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:37:18.519 +0530	waitfor	(TEXT:"Sort by")	found at (705, 542)	16	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:37:22.690 +0530	click	click_dropdown	at (826, 546)	19	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:37:28.887 +0530	EndTestCase		(Duration:"135.057", Errors:"1", Exceptions:"0", StartTime:"2024-03-16 13:35:13 +0530", Successes:"0", TestCase:"launch_browser_code.script", Warnings:"0")
+2024-03-16 13:37:29.208 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'select' -- Execution Time 0:02:15 launch_browser_code.script

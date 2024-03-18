@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		378,
+		397,
+		236,
+		64
+	],
+	"lastmodifieddate": 1710497792.652,
+	"createddate": 1710497792.652,
+	"name": "Usepreciselocation",
+	"lastfounddate": 1710497795.3329999,
+	"ocrcapturestring": "<•} Use precise location",
+	"lastfoundlocation": [
+		378,
+		397,
+		236,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[118,32]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Usepreciselocation.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					378,
+					397,
+					236,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "<•} Use precise location"
+			}
+	]
+}

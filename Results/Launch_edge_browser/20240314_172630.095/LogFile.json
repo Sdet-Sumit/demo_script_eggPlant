@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running Launch_edge_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:26:30.109 +0530"
+			},
+		{
+				"handlerName": "on_launch_edge_browser",
+				"timestamp": "2024-03-14 17:26:30.343 +0530",
+				"scriptName": "Launch_edge_browser.script",
+				"message": "at (32, 1048)",
+				"image": "window_icon",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_edge_browser",
+				"timestamp": "2024-03-14 17:26:32.493 +0530",
+				"message": "calculator[return]",
+				"scriptName": "Launch_edge_browser.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3834.546\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-14 17:26:30 +0530\", Successes:\"0\", TestCase:\"Launch_edge_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 18:30:24.665 +0530"
+			},
+		{
+				"message": "Execution Time 1:03:54 Launch_edge_browser.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-14 18:30:24.697 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:26:30.114 +0530"
+}

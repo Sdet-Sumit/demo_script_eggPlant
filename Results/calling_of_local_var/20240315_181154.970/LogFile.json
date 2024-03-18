@@ -1,0 +1,100 @@
+{
+	"entries": [
+		{
+				"message": "Running calling_of_local_var.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 18:11:54.984 +0530"
+			},
+		{
+				"handlerName": "on_local_var1",
+				"timestamp": "2024-03-15 18:11:55.020 +0530",
+				"message": "from local_var1",
+				"scriptName": "local_var1.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var1",
+				"timestamp": "2024-03-15 18:11:55.024 +0530",
+				"message": "Local variable is Hello",
+				"scriptName": "local_var1.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var1",
+				"timestamp": "2024-03-15 18:11:55.028 +0530",
+				"message": "End of local_var1",
+				"scriptName": "local_var1.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_calling_of_local_var",
+				"timestamp": "2024-03-15 18:11:55.032 +0530",
+				"message": "**********",
+				"scriptName": "calling_of_local_var.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var2",
+				"timestamp": "2024-03-15 18:11:55.039 +0530",
+				"message": "Global Variable is Hello Globally",
+				"scriptName": "local_var2.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var2",
+				"timestamp": "2024-03-15 18:11:55.044 +0530",
+				"message": "End of global_var2",
+				"scriptName": "local_var2.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_calling_of_local_var",
+				"timestamp": "2024-03-15 18:11:55.049 +0530",
+				"message": "*********",
+				"scriptName": "calling_of_local_var.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_global_var3",
+				"timestamp": "2024-03-15 18:11:55.059 +0530",
+				"message": "from local_var2",
+				"scriptName": "global_var3.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_global_var3",
+				"timestamp": "2024-03-15 18:11:55.063 +0530",
+				"message": "Global variable is Hello Globally",
+				"scriptName": "global_var3.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_global_var3",
+				"timestamp": "2024-03-15 18:11:55.067 +0530",
+				"message": "End of global_v3",
+				"scriptName": "global_var3.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.097\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-15 18:11:54 +0530\", Successes:\"1\", TestCase:\"calling_of_local_var.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 18:11:55.085 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 calling_of_local_var.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-15 18:11:55.151 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 18:11:54.988 +0530"
+}

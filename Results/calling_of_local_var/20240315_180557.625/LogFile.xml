@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="calling_of_local_var_script" package="demo_eggplant.suite" timestamp="2024-03-15 18:05:57.625 +0530"
+ tests="1"  failures="0" errors="0" time="0.095000">
+  <properties>
+   <property name="RunDate" value="2024-03-15 18:05:57.625 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="calling_of_local_var.script" assertions="1" status="success"  time="0.085">
+  </testcase>
+ </testsuite>
+</testsuites>

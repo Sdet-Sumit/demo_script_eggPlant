@@ -1,0 +1,25 @@
+﻿DoubleClick "chrome_icon"
+wait 10
+Click "click_on_addressbar"
+TypeText "amazon",Return
+//Click (Image:"Usepreciselocation", WaitFor:21)
+wait 2
+//Click "Allowoneveryvisit"
+
+Click (Image:"click_on_first_link", WaitFor:14.9)
+//Click (Image:"close_pop_up", WaitFor:37)
+//Click Image:"maximize_window"
+Wait 15
+Click (Image:"click_search_box", WaitFor:3.3)
+TypeText "oneplus 11r 5g",Return
+Wait 15
+//Click "click_on_search_icon"
+//Wait 10
+Click (Image:"HellosigninAccountLists_click", WaitFor:32)
+Click {Image:"CreateyourAmazonaccount_signup_btn", WaitFor:35}
+TypeText "Test Test",Tab
+wait 5
+TypeText "9466731805",Tab
+Wait 5
+TypeText "Sumit225@",Tab
+Wait 5

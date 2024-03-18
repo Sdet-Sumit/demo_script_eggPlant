@@ -1,0 +1,6 @@
+﻿//global_var2
+
+Put "Hello Globally" into global greeting
+Log "Global Variable is" && global greeting
+
+Log "End of global_var2"

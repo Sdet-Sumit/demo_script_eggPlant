@@ -1,0 +1,12 @@
+﻿2024-03-16 13:32:47.173 +0530	START		Running launch_browser_code.script
+2024-03-16 13:32:47.248 +0530	Log		Launching Chrome	3	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:32:47.468 +0530	doubleclick	chrome_icon	at (43, 146)	5	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:32:56.437 +0530	waitfor	(TEXT:"Search Google or type a URL")	found at (832, 405)	6	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:32:56.816 +0530	typetext		demo.nopcommerce.com[return]	9	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:33:03.809 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 910)	10	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:33:05.916 +0530	click	(TEXT:"Digital downloads")	at (974, 294)	15	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:33:56.573 +0530	waitfor	(TEXT:"Sort by")	found at (705, 542)	16	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:34:10.544 +0530	click	click_dropdown	at (826, 546)	19	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:04.741 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	20	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:35:04.870 +0530	EndTestCase		(Duration:"137.687", Errors:"1", Exceptions:"1", StartTime:"2024-03-16 13:32:47 +0530", Successes:"0", TestCase:"launch_browser_code.script", Warnings:"0")
+2024-03-16 13:35:04.889 +0530	ABORTED		Execution Time 0:02:17 launch_browser_code.script

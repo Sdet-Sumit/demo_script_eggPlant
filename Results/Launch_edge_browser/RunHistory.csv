@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-14 16:53:00.600 +0530,"Failure",0:00:00,1,0,1,"20240314_165300.600/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: ￼",0
+2024-03-14 16:53:45.152 +0530,"Failure",0:00:00,1,0,1,"20240314_165345.152/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: ￼",0
+2024-03-14 16:54:04.827 +0530,"Failure",0:00:00,1,0,1,"20240314_165404.827/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: ￼",0
+2024-03-14 17:04:53.973 +0530,"Failure",0:00:00,1,0,0,"20240314_170453.973/LogFile.txt","","SenseTalk Compiler Exception -- in launch_edge_browser:\nSyntax Error at line 1: can't understand ""r"" at character 21",0
+2024-03-14 17:05:11.308 +0530,"Aborted",0:01:05,1,0,1,"20240314_170511.308/LogFile.txt","","",0
+2024-03-14 17:06:20.526 +0530,"Failure",0:00:22,1,0,1,"20240314_170620.526/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""window_icon""",0
+2024-03-14 17:06:48.460 +0530,"Success",0:01:19,0,0,0,"20240314_170648.460/LogFile.txt","","",1
+2024-03-14 17:08:20.418 +0530,"Aborted",0:14:44,1,0,0,"20240314_170820.418/LogFile.txt","","",0
+2024-03-14 17:23:06.713 +0530,"Aborted",0:00:48,1,0,0,"20240314_172306.713/LogFile.txt","","",0
+2024-03-14 17:26:30.095 +0530,"Aborted",1:03:54,1,0,0,"20240314_172630.095/LogFile.txt","","",0

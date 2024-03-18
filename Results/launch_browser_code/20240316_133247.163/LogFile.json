@@ -1,0 +1,98 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_browser_code.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 13:32:47.173 +0530"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:32:47.248 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:32:47.468 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 5,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:32:56.437 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:32:56.816 +0530",
+				"message": "demo.nopcommerce.com[return]",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:33:03.809 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (951, 910)",
+				"image": "(TEXT:\"Welcome to our store\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:33:05.916 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (974, 294)",
+				"image": "(TEXT:\"Digital downloads\")",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:33:56.573 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (705, 542)",
+				"image": "(TEXT:\"Sort by\")",
+				"handlerLine": 16,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:34:10.544 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (826, 546)",
+				"image": "click_dropdown",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:35:04.741 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 20,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"137.687\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-16 13:32:47 +0530\", Successes:\"0\", TestCase:\"launch_browser_code.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 13:35:04.870 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:17 launch_browser_code.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-16 13:35:04.889 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 13:32:47.181 +0530"
+}

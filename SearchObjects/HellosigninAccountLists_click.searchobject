@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1583,
+		84,
+		127,
+		60
+	],
+	"lastmodifieddate": 1710498756.7779999,
+	"createddate": 1710498756.7779999,
+	"name": "HellosigninAccountLists_click",
+	"lastfounddate": 1710499556.1210001,
+	"ocrcapturestring": "Hello, sign in Account & Lists",
+	"lastfoundlocation": [
+		1583,
+		84,
+		127,
+		60
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[63,30]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "HellosigninAccountLists_click.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					1583,
+					84,
+					127,
+					60
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Hello, sign in Account & Lists"
+			}
+	]
+}

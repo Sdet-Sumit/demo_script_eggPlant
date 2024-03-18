@@ -1,0 +1,7 @@
+﻿2024-03-16 12:41:26.176 +0530	START		Running properties_list.script
+2024-03-16 12:41:26.244 +0530	Log		List items tutorial	3	on_properties_list	properties_list.script
+2024-03-16 12:41:26.253 +0530	Log		{Address:"Sirsa", Age:33, Firstname:"Sumit", Lastname:"Kumar"}	5	on_properties_list	properties_list.script
+2024-03-16 12:41:26.261 +0530	Log		{Address:"Sirsa", Firstname:"Sumit", Lastname:"Kumar"}	8	on_properties_list	properties_list.script
+2024-03-16 12:41:26.266 +0530	Log		Adding item into list	11	on_properties_list	properties_list.script
+2024-03-16 12:41:26.292 +0530	EndTestCase		(Duration:"0.11", Errors:"0", Exceptions:"0", StartTime:"2024-03-16 12:41:26 +0530", Successes:"1", TestCase:"properties_list.script", Warnings:"0")
+2024-03-16 12:41:26.376 +0530	SUCCESS		Execution Time 0:00:00 properties_list.script

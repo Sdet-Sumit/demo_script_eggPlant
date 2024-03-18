@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		8,
+		104,
+		71,
+		101
+	],
+	"lastmodifieddate": 1710488417.22,
+	"createddate": 1702034286.8080001,
+	"name": "click_edge_logo",
+	"lastfounddate": 1702034286.9170001,
+	"ocrcapturestring": "IlSfr-Okniii",
+	"lastfoundlocation": [
+		8,
+		104,
+		71,
+		101
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,50]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "click_edge_logo.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					8,
+					104,
+					71,
+					101
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "IlSfr-Okniii"
+			}
+	]
+}

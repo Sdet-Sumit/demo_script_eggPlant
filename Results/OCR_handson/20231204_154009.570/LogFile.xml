@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="OCR_handson_script" package="demo_eggplant.suite" timestamp="2023-12-04 15:40:09.570 +0530"
+ tests="1"  failures="0" errors="0" time="19.342000">
+  <properties>
+   <property name="RunDate" value="2023-12-04 15:40:09.570 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="OCR_handson.script" assertions="1" status="error"  time="19.324">
+    <error type="Exception" message="No Image Found On Screen: &quot;chrome_icon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,81 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_browser_code.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 13:25:17.798 +0530"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:17.877 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:18.115 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 5,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:26.067 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:26.449 +0530",
+				"message": "demo.nopcommerce.com[return]",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:32.672 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (951, 410)",
+				"image": "(TEXT:\"Welcome to our store\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:34.367 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (974, 294)",
+				"image": "(TEXT:\"Digital downloads\")",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:25:46.076 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (705, 542)",
+				"image": "(TEXT:\"Sort by\")",
+				"handlerLine": 16,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"28.407\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-16 13:25:17 +0530\", Successes:\"1\", TestCase:\"launch_browser_code.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 13:25:46.213 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:28 launch_browser_code.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-16 13:25:46.322 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 13:25:17.804 +0530"
+}

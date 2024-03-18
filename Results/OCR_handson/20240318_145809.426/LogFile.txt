@@ -1,0 +1,6 @@
+﻿2024-03-18 14:58:09.432 +0530	START		Running OCR_handson.script
+2024-03-18 14:58:09.471 +0530	Log		Launching Chrome	1	on_ocr_handson	OCR_handson.script
+2024-03-18 14:58:09.612 +0530	doubleclick	chrome_icon	at (43, 146)	3	on_ocr_handson	OCR_handson.script
+2024-03-18 14:58:56.288 +0530	Exception	(TEXT:"Search Google or type a URL")	Unable To Find Any Image On Screen "(TEXT:"Search Google or type a URL")" within 20.00 seconds. Text not found.	4	on_ocr_handson	OCR_handson.script
+2024-03-18 14:58:56.364 +0530	EndTestCase		(Duration:"46.925", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 14:58:09 +0530", Successes:"0", TestCase:"OCR_handson.script", Warnings:"0")
+2024-03-18 14:58:56.388 +0530	ABORTED		Execution Time 0:00:46 OCR_handson.script

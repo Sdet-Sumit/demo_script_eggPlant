@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Launch_edge_browser_script" package="demo_eggplant.suite" timestamp="2024-03-14 17:05:11.308 +0530"
+ tests="1"  failures="0" errors="0" time="65.184000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 17:05:11.308 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Launch_edge_browser.script" assertions="1" status="error"  time="65.17">
+    <error type="Exception" message="No Image Found On Screen: &quot;Calculator_search_result_icon_click&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

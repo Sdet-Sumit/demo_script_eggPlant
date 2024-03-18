@@ -1,0 +1,6 @@
+﻿2024-03-15 16:06:48.026 +0530	START		Running launch_chrome_browser.script
+2024-03-15 16:06:48.250 +0530	doubleclick	chrome_icon	at (43, 146)	1	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:06:58.402 +0530	click	click_on_addressbar	at (506, 77)	3	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:06:59.192 +0530	typetext		amazon[return]	4	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:07:35.598 +0530	EndTestCase		(Duration:"47.566", Errors:"1", Exceptions:"0", StartTime:"2024-03-15 16:06:48 +0530", Successes:"0", TestCase:"launch_chrome_browser.script", Warnings:"0")
+2024-03-15 16:07:35.621 +0530	ABORTED		Execution Time 0:00:47 launch_chrome_browser.script

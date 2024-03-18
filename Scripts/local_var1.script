@@ -1,0 +1,10 @@
+﻿
+
+//local_var1
+
+Log "from local_var1"
+Put "Hello" into greetings
+Log "Local variable is" && greetings
+
+Log "End of local_var1"
+

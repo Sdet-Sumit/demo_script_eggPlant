@@ -1,0 +1,10 @@
+﻿2024-03-15 15:58:47.631 +0530	START		Running launch_chrome_browser.script
+2024-03-15 15:58:47.838 +0530	doubleclick	chrome_icon	at (43, 146)	1	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 15:58:58.041 +0530	click	click_on_addressbar	at (506, 77)	3	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 15:58:58.830 +0530	typetext		amazon[return]	4	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 15:59:02.288 +0530	click	click_on_first_link	at (364, 367)	8	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 15:59:49.184 +0530	click	maximize_window	at (932, 31)	10	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 15:59:59.315 +0530	click	click_search_box	at (738, 113)	12	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:00:00.238 +0530	typetext		oneplus 11r 5g	13	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 16:00:00.275 +0530	EndTestCase		(Duration:"72.634", Errors:"0", Exceptions:"0", StartTime:"2024-03-15 15:58:47 +0530", Successes:"1", TestCase:"launch_chrome_browser.script", Warnings:"0")
+2024-03-15 16:00:00.333 +0530	SUCCESS		Execution Time 0:01:12 launch_chrome_browser.script

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1430,
+		84,
+		48,
+		62
+	],
+	"lastmodifieddate": 1710499826.1129999,
+	"createddate": 1710498641.6719999,
+	"name": "click_on_search_icon",
+	"lastfounddate": 1710499544.895,
+	"ocrcapturestring": "Q.",
+	"lastfoundlocation": [
+		1430,
+		84,
+		48,
+		62
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,31]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "click_on_search_icon/click_on_search_icon.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					1430,
+					84,
+					48,
+					62
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q."
+			}
+	]
+}

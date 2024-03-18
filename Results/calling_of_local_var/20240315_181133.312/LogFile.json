@@ -1,0 +1,76 @@
+{
+	"entries": [
+		{
+				"message": "Running calling_of_local_var.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 18:11:33.325 +0530"
+			},
+		{
+				"handlerName": "on_local_var1",
+				"timestamp": "2024-03-15 18:11:33.357 +0530",
+				"message": "from local_var1",
+				"scriptName": "local_var1.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var1",
+				"timestamp": "2024-03-15 18:11:33.361 +0530",
+				"message": "Local variable is Hello",
+				"scriptName": "local_var1.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var1",
+				"timestamp": "2024-03-15 18:11:33.364 +0530",
+				"message": "End of local_var1",
+				"scriptName": "local_var1.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_calling_of_local_var",
+				"timestamp": "2024-03-15 18:11:33.368 +0530",
+				"message": "**********",
+				"scriptName": "calling_of_local_var.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var2",
+				"timestamp": "2024-03-15 18:11:33.375 +0530",
+				"message": "Global Variable is Hello Globally",
+				"scriptName": "local_var2.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_local_var2",
+				"timestamp": "2024-03-15 18:11:33.379 +0530",
+				"message": "End of global_var2",
+				"scriptName": "local_var2.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_calling_of_local_var",
+				"timestamp": "2024-03-15 18:11:33.383 +0530",
+				"message": "*********",
+				"scriptName": "calling_of_local_var.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.083\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-15 18:11:33 +0530\", Successes:\"0\", TestCase:\"calling_of_local_var.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 18:11:33.414 +0530"
+			},
+		{
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'global_v3'. -- Execution Time 0:00:00 calling_of_local_var.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-15 18:11:33.479 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 18:11:33.328 +0530"
+}

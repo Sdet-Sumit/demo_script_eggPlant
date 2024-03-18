@@ -1,0 +1,4 @@
+﻿2024-03-15 15:54:35.481 +0530	START		Running launch_chrome_browser.script
+2024-03-15 15:54:35.692 +0530	doubleclick	chrome_icon	at (43, 146)	1	on_launch_chrome_browser	launch_chrome_browser.script
+2024-03-15 15:55:04.145 +0530	EndTestCase		(Duration:"28.657", Errors:"1", Exceptions:"0", StartTime:"2024-03-15 15:54:35 +0530", Successes:"0", TestCase:"launch_chrome_browser.script", Warnings:"0")
+2024-03-15 15:55:04.167 +0530	ABORTED		Execution Time 0:00:28 launch_chrome_browser.script

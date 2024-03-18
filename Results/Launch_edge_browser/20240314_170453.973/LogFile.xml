@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Launch_edge_browser_script" package="demo_eggplant.suite" timestamp="2024-03-14 17:04:53.973 +0530"
+ tests="1"  failures="1" errors="0" time="0.017000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 17:04:53.973 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Launch_edge_browser.script" assertions="1" status="failure"  time="0.001">
+    <failure type="FAILURE" message="SenseTalk Compiler Exception: in launch_edge_browser:\nSyntax Error at line 1: can&apos;t understand &quot;r&quot; at character 21 -- Execution Time 0:00:00 Launch_edge_browser.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

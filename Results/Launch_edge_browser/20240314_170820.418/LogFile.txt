@@ -1,0 +1,5 @@
+﻿2024-03-14 17:08:20.430 +0530	START		Running Launch_edge_browser.script
+2024-03-14 17:08:33.167 +0530	click	window_icon	at (32, 1048)	2	on_launch_edge_browser	Launch_edge_browser.script
+2024-03-14 17:08:35.317 +0530	typetext		calculator[return]	4	on_launch_edge_browser	Launch_edge_browser.script
+2024-03-14 17:23:04.539 +0530	EndTestCase		(Duration:"884.102", Errors:"1", Exceptions:"0", StartTime:"2024-03-14 17:08:20 +0530", Successes:"0", TestCase:"Launch_edge_browser.script", Warnings:"0")
+2024-03-14 17:23:04.558 +0530	ABORTED		Execution Time 0:14:44 Launch_edge_browser.script

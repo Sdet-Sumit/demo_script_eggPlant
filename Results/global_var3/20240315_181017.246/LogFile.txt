@@ -1,0 +1,6 @@
+﻿2024-03-15 18:10:17.252 +0530	START		Running global_var3.script
+2024-03-15 18:10:17.283 +0530	Log		from local_var2	2	on_global_var3	global_var3.script
+2024-03-15 18:10:17.287 +0530	Log		Global variable is 	4	on_global_var3	global_var3.script
+2024-03-15 18:10:17.291 +0530	Log		End of global_v3	6	on_global_var3	global_var3.script
+2024-03-15 18:10:17.312 +0530	EndTestCase		(Duration:"0.055", Errors:"0", Exceptions:"0", StartTime:"2024-03-15 18:10:17 +0530", Successes:"1", TestCase:"global_var3.script", Warnings:"0")
+2024-03-15 18:10:17.368 +0530	SUCCESS		Execution Time 0:00:00 global_var3.script

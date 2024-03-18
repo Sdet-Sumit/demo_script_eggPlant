@@ -1,0 +1,12 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-18 13:19:47.604 +0530,"Aborted",0:00:03,1,0,1,"20240318_131947.604/LogFile.txt","","",0
+2024-03-18 13:20:13.832 +0530,"Aborted",0:00:06,1,0,1,"20240318_132013.832/LogFile.txt","","",0
+2024-03-18 13:31:26.101 +0530,"Aborted",0:00:04,1,0,1,"20240318_133126.101/LogFile.txt","","",0
+2024-03-18 14:58:09.426 +0530,"Aborted",0:00:46,1,0,1,"20240318_145809.426/LogFile.txt","","",0
+2024-03-18 14:59:03.165 +0530,"Aborted",-2567:-54:00,1,0,1,"20240318_145903.165/LogFile.txt","","",0
+2023-12-02 15:21:33.144 +0530,"Failure",0:00:00,1,0,0,"20231202_152133.144/LogFile.txt","","SenseTalk Compiler Exception -- in ocr_handson:\nSyntax Error at line 23: can't understand [end of script] at character 12",0
+2023-12-02 15:21:56.786 +0530,"Failure",0:00:00,1,0,0,"20231202_152156.786/LogFile.txt","","SenseTalk Compiler Exception -- in ocr_handson:\nSyntax Error at line 23: can't understand [end of script] at character 1",0
+2023-12-02 15:22:08.757 +0530,"Failure",0:00:37,1,0,1,"20231202_152208.757/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Search Google or type a URL"")"" within 20.00 seconds. Text not found.",0
+2023-12-04 15:40:09.570 +0530,"Aborted",0:00:19,1,0,1,"20231204_154009.570/LogFile.txt","","",0
+2023-12-04 15:40:47.991 +0530,"Success",0:00:45,0,0,0,"20231204_154047.991/LogFile.txt","","",1
+2023-12-04 15:43:27.494 +0530,"Success",0:00:51,0,0,0,"20231204_154327.494/LogFile.txt","","",1

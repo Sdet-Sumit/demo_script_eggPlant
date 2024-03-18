@@ -1,0 +1,13 @@
+﻿
+//Variables
+
+Run local_var1
+
+Log "**********"
+
+Run local_var2
+
+Log "*********"
+
+Run global_var3
+

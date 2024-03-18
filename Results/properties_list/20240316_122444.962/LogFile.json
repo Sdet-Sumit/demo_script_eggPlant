@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running properties_list.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 12:24:44.989 +0530"
+			},
+		{
+				"message": "(Duration:\"0.002\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-16 12:24:45 +0530\", Successes:\"0\", TestCase:\"properties_list.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 12:24:45.004 +0530"
+			},
+		{
+				"message": "SenseTalk Compiler Exception: in properties_list:\\nSyntax Error at line 7: can't understand \"Age\" at character 15 -- Execution Time 0:00:00 properties_list.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-16 12:24:45.096 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 12:24:45.000 +0530"
+}

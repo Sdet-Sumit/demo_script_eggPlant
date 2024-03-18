@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Launch_edge_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 16:54:04.843 +0530"
+			},
+		{
+				"handlerName": "on_launch_edge_browser",
+				"timestamp": "2024-03-14 16:54:04.915 +0530",
+				"scriptName": "Launch_edge_browser.script",
+				"message": "Could Not Open Image: ￼",
+				"image": "￼",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.082\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 16:54:04 +0530\", Successes:\"0\", TestCase:\"Launch_edge_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 16:54:04.935 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: doubleclick Error - Could Not Open Image: ￼ -- Execution Time 0:00:00 Launch_edge_browser.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 16:54:05.377 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 16:54:04.850 +0530"
+}

@@ -1,0 +1,11 @@
+﻿2024-03-16 13:41:25.873 +0530	START		Running launch_browser_code.script
+2024-03-16 13:41:25.990 +0530	Log		Launching Chrome	3	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:26.227 +0530	doubleclick	chrome_icon	at (43, 146)	5	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:33.884 +0530	waitfor	(TEXT:"Search Google or type a URL")	found at (832, 405)	6	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:34.269 +0530	typetext		demo.nopcommerce.com[return]	9	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:40.097 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 410)	10	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:41.783 +0530	click	(TEXT:"Digital downloads")	at (974, 294)	15	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:58.931 +0530	waitfor	(TEXT:"Sort by")	found at (705, 542)	16	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:58.945 +0530	Exception	\t	Could Not Open Image: (empty)	19	on_launch_browser_code	launch_browser_code.script
+2024-03-16 13:41:59.067 +0530	EndTestCase		(Duration:"33.187", Errors:"1", Exceptions:"1", StartTime:"2024-03-16 13:41:25 +0530", Successes:"0", TestCase:"launch_browser_code.script", Warnings:"0")
+2024-03-16 13:41:59.368 +0530	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: (empty) -- Execution Time 0:00:33 launch_browser_code.script

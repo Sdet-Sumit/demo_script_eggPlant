@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="properties_list_script" package="demo_eggplant.suite" timestamp="2024-03-16 12:24:44.962 +0530"
+ tests="1"  failures="1" errors="0" time="0.040000">
+  <properties>
+   <property name="RunDate" value="2024-03-16 12:24:44.962 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="properties_list.script" assertions="1" status="failure"  time="0.002">
+    <failure type="FAILURE" message="SenseTalk Compiler Exception: in properties_list:\nSyntax Error at line 7: can&apos;t understand &quot;Age&quot; at character 15 -- Execution Time 0:00:00 properties_list.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

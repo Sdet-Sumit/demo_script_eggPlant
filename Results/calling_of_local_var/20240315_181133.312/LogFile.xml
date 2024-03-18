@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="calling_of_local_var_script" package="demo_eggplant.suite" timestamp="2024-03-15 18:11:33.312 +0530"
+ tests="1"  failures="1" errors="0" time="0.101000">
+  <properties>
+   <property name="RunDate" value="2024-03-15 18:11:33.312 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="calling_of_local_var.script" assertions="1" status="failure"  time="0.083">
+    <failure type="FAILURE" message="BadValue: Bad value for Object expression.  Looking for an object or script identifier, got &apos;global_v3&apos;. -- Execution Time 0:00:00 calling_of_local_var.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

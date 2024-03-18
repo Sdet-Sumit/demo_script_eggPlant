@@ -1,0 +1,4 @@
+﻿2024-03-14 16:53:45.168 +0530	START		Running Launch_edge_browser.script
+2024-03-14 16:53:45.257 +0530	Exception	￼	Could Not Open Image: ￼	1	on_launch_edge_browser	Launch_edge_browser.script
+2024-03-14 16:53:45.280 +0530	EndTestCase		(Duration:"0.103", Errors:"1", Exceptions:"1", StartTime:"2024-03-14 16:53:45 +0530", Successes:"0", TestCase:"Launch_edge_browser.script", Warnings:"0")
+2024-03-14 16:53:45.761 +0530	FAILURE	Screen_Error.png	File Not Found: doubleclick Error - Could Not Open Image: ￼ -- Execution Time 0:00:00 Launch_edge_browser.script

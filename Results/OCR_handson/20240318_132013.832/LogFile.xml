@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="OCR_handson_script" package="demo_eggplant.suite" timestamp="2024-03-18 13:20:13.832 +0530"
+ tests="1"  failures="0" errors="0" time="6.122000">
+  <properties>
+   <property name="RunDate" value="2024-03-18 13:20:13.832 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="OCR_handson.script" assertions="1" status="error"  time="6.107">
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

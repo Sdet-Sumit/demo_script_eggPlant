@@ -1,0 +1,77 @@
+{
+	"originalcapturelocation": [
+		43,
+		470,
+		321,
+		77
+	],
+	"lastmodifieddate": 1710488407.2020001,
+	"createddate": 1710416081.118,
+	"name": "Calculator_search_result_icon_click",
+	"lastfounddate": 1710417197.346,
+	"ocrcapturestring": "Calculator",
+	"lastfoundlocation": [
+		43,
+		470,
+		321,
+		77
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[160,38]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Calculator_search_result_icon_click/Calculator_search_result_icon_click.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					43,
+					470,
+					321,
+					77
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Calculator"
+			},
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[160,38]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Calculator_search_result_icon_click/Calculator_search_result_icon_click_new.png",
+				"connectionname": "192.168.0.79",
+				"type": 1,
+				"connectionserverid": "192.168.0.79",
+				"capturerect": [
+					43,
+					470,
+					321,
+					77
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Calculator"
+			}
+	]
+}

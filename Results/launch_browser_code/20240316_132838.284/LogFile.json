@@ -1,0 +1,90 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_browser_code.script",
+				"identifier": "START",
+				"timestamp": "2024-03-16 13:28:38.297 +0530"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:28:38.412 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:28:38.644 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 5,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:28:46.997 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (832, 405)",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:28:47.377 +0530",
+				"message": "demo.nopcommerce.com[return]",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:28:53.145 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (950, 410)",
+				"image": "(TEXT:\"Welcome to our store\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:28:54.823 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "at (974, 294)",
+				"image": "(TEXT:\"Digital downloads\")",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:30:05.670 +0530",
+				"scriptName": "launch_browser_code.script",
+				"message": "found at (705, 542)",
+				"image": "(TEXT:\"Sort by\")",
+				"handlerLine": 16,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launch_browser_code",
+				"timestamp": "2024-03-16 13:30:14.605 +0530",
+				"message": "Image Property List did not contain \"ImageName\" property",
+				"scriptName": "launch_browser_code.script",
+				"handlerLine": 18,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"96.357\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-16 13:28:38 +0530\", Successes:\"0\", TestCase:\"launch_browser_code.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-16 13:30:14.660 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: click Error - Image Property List did not contain \"ImageName\" property -- Execution Time 0:01:36 launch_browser_code.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-16 13:30:14.982 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-16 13:28:38.303 +0530"
+}

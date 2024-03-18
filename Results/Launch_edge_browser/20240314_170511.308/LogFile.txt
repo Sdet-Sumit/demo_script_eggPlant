@@ -1,0 +1,6 @@
+﻿2024-03-14 17:05:11.316 +0530	START		Running Launch_edge_browser.script
+2024-03-14 17:05:11.581 +0530	click	window_icon	at (32, 1048)	2	on_launch_edge_browser	Launch_edge_browser.script
+2024-03-14 17:05:12.424 +0530	typetext		calculator[return]	3	on_launch_edge_browser	Launch_edge_browser.script
+2024-03-14 17:06:16.344 +0530	Exception	Calculator_search_result_icon_click	No Image Found On Screen: "Calculator_search_result_icon_click"	4	on_launch_edge_browser	Launch_edge_browser.script
+2024-03-14 17:06:16.494 +0530	EndTestCase		(Duration:"65.17", Errors:"1", Exceptions:"1", StartTime:"2024-03-14 17:05:11 +0530", Successes:"0", TestCase:"Launch_edge_browser.script", Warnings:"0")
+2024-03-14 17:06:16.515 +0530	ABORTED		Execution Time 0:01:05 Launch_edge_browser.script

@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Launch_edge_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:06:20.541 +0530"
+			},
+		{
+				"handlerName": "on_launch_edge_browser",
+				"timestamp": "2024-03-14 17:06:42.727 +0530",
+				"scriptName": "Launch_edge_browser.script",
+				"message": "No Image Found On Screen: \"window_icon\"",
+				"image": "window_icon",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.254\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 17:06:20 +0530\", Successes:\"0\", TestCase:\"Launch_edge_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 17:06:42.802 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"window_icon\" -- Execution Time 0:00:22 Launch_edge_browser.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 17:06:43.019 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:06:20.546 +0530"
+}

@@ -1,0 +1,81 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_chrome_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 15:58:47.631 +0530"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:58:47.838 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:58:58.041 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (506, 77)",
+				"image": "click_on_addressbar",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:58:58.830 +0530",
+				"message": "amazon[return]",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:59:02.288 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (364, 367)",
+				"image": "click_on_first_link",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:59:49.184 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (932, 31)",
+				"image": "maximize_window",
+				"handlerLine": 10,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 15:59:59.315 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (738, 113)",
+				"image": "click_search_box",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2024-03-15 16:00:00.238 +0530",
+				"message": "oneplus 11r 5g",
+				"scriptName": "launch_chrome_browser.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"72.634\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-15 15:58:47 +0530\", Successes:\"1\", TestCase:\"launch_chrome_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 16:00:00.275 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:12 launch_chrome_browser.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-15 16:00:00.333 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 15:58:47.640 +0530"
+}

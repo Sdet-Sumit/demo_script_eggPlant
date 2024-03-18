@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR_handson.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 14:58:09.432 +0530"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2024-03-18 14:58:09.471 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "OCR_handson.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2024-03-18 14:58:09.612 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2024-03-18 14:58:56.288 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Search Google or type a URL\")\" within 20.00 seconds. Text not found.",
+				"image": "(TEXT:\"Search Google or type a URL\")",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"46.925\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-18 14:58:09 +0530\", Successes:\"0\", TestCase:\"OCR_handson.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 14:58:56.364 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:46 OCR_handson.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 14:58:56.388 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-18 14:58:09.437 +0530"
+}

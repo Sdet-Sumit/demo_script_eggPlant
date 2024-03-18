@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Launch_edge_browser_script" package="demo_eggplant.suite" timestamp="2024-03-14 16:53:45.152 +0530"
+ tests="1"  failures="1" errors="1" time="0.125000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 16:53:45.152 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Launch_edge_browser.script" assertions="1" status="error"  time="0.103">
+    <failure type="FAILURE" message="File Not Found: doubleclick Error - Could Not Open Image: ￼ -- Execution Time 0:00:00 Launch_edge_browser.script" />
+    <error type="Exception" message="Could Not Open Image: ￼" />
+  </testcase>
+ </testsuite>
+</testsuites>

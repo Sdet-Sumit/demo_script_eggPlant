@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running launch_chrome_browser.script",
+				"identifier": "START",
+				"timestamp": "2023-12-09 13:36:59.022 +0530"
+			},
+		{
+				"handlerName": "on_launch_chrome_browser",
+				"timestamp": "2023-12-09 13:36:59.186 +0530",
+				"scriptName": "launch_chrome_browser.script",
+				"message": "at (43, 146)",
+				"image": "chrome_icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"0.178\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-09 13:36:59 +0530\", Successes:\"1\", TestCase:\"launch_chrome_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-09 13:36:59.205 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 launch_chrome_browser.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-09 13:36:59.250 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-09 13:36:59.026 +0530"
+}

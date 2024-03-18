@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Launch_edge_browser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:04:53.981 +0530"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-14 17:04:53 +0530\", Successes:\"0\", TestCase:\"Launch_edge_browser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 17:04:53.991 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in launch_edge_browser:\\nSyntax Error at line 1: can't understand \"r\" at character 21 -- Execution Time 0:00:00 Launch_edge_browser.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 17:04:54.442 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:04:53.987 +0530"
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Launch_edge_browser_script" package="demo_eggplant.suite" timestamp="2024-03-14 17:06:20.526 +0530"
+ tests="1"  failures="1" errors="1" time="22.274000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 17:06:20.526 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Launch_edge_browser.script" assertions="1" status="error"  time="22.254">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;window_icon&quot; -- Execution Time 0:00:22 Launch_edge_browser.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;window_icon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

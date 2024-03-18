@@ -1,0 +1,11 @@
+﻿2023-12-04 15:43:27.506 +0530	START		Running OCR_handson.script
+2023-12-04 15:43:27.574 +0530	Log		Launching Chrome	1	on_ocr_handson	OCR_handson.script
+2023-12-04 15:43:43.586 +0530	doubleclick	chrome_icon	at (43, 146)	4	on_ocr_handson	OCR_handson.script
+2023-12-04 15:43:53.006 +0530	waitfor	(TEXT:"Search Google or type a URL")	found at (832, 405)	5	on_ocr_handson	OCR_handson.script
+2023-12-04 15:43:53.308 +0530	typetext		demo.nopcommerce.com[return]	8	on_ocr_handson	OCR_handson.script
+2023-12-04 15:44:02.082 +0530	waitfor	(TEXT:"Welcome to our store")	found at (951, 410)	9	on_ocr_handson	OCR_handson.script
+2023-12-04 15:44:03.735 +0530	click	(TEXT:"Digital downloads")	at (974, 294)	14	on_ocr_handson	OCR_handson.script
+2023-12-04 15:44:16.677 +0530	waitfor	(TEXT:"Sort by")	found at (705, 542)	15	on_ocr_handson	OCR_handson.script
+2023-12-04 15:44:18.628 +0530	imagerectangle	(TEXT:"Computers")	at [483,286,569,303]	21	on_ocr_handson	OCR_handson.script
+2023-12-04 15:44:18.670 +0530	EndTestCase		(Duration:"51.158", Errors:"0", Exceptions:"0", StartTime:"2023-12-04 15:43:27 +0530", Successes:"1", TestCase:"OCR_handson.script", Warnings:"0")
+2023-12-04 15:44:18.764 +0530	SUCCESS		Execution Time 0:00:51 OCR_handson.script

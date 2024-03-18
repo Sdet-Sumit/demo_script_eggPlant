@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		731,
+		604,
+		184,
+		75
+	],
+	"lastmodifieddate": 1710748107.02,
+	"createddate": 1710748107.02,
+	"name": "chrome_icon/LONDONGRAWKR",
+	"lastfounddate": 1710748886.289,
+	"ocrcapturestring": "LONDON GRAWKR",
+	"lastfoundlocation": [
+		730,
+		604,
+		184,
+		75
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[92,37]",
+					"Tolerance": "_71",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrome_icon/LONDONGRAWKR.png",
+				"connectionname": "192.168.0.85",
+				"type": 1,
+				"connectionserverid": "192.168.0.85",
+				"capturerect": [
+					731,
+					604,
+					184,
+					75
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "LONDON GRAWKR"
+			}
+	]
+}

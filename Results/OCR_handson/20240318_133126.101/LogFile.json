@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR_handson.script",
+				"identifier": "START",
+				"timestamp": "2024-03-18 13:31:26.110 +0530"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2024-03-18 13:31:26.209 +0530",
+				"message": "Launching Chrome",
+				"scriptName": "OCR_handson.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2024-03-18 13:31:26.470 +0530",
+				"scriptName": "OCR_handson.script",
+				"message": "at (822, 641)",
+				"image": "chrome_icon",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ocr_handson",
+				"timestamp": "2024-03-18 13:31:30.601 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "OCR_handson.script",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"4.516\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-18 13:31:26 +0530\", Successes:\"0\", TestCase:\"OCR_handson.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-18 13:31:30.635 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:04 OCR_handson.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-18 13:31:30.654 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-18 13:31:26.117 +0530"
+}
