@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		362,
+		780,
+		177,
+		224
+	],
+	"lastmodifieddate": 1710936393.142,
+	"createddate": 1710936393.142,
+	"name": "chromeImages/itemPhoneImage",
+	"lastfounddate": 1710937395.9089999,
+	"ocrcapturestring": "n",
+	"lastfoundlocation": [
+		362,
+		780,
+		177,
+		224
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[2,79]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chromeImages/itemPhoneImage.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					362,
+					780,
+					177,
+					224
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "n"
+			}
+	]
+}

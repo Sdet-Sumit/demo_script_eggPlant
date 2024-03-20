@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		140,
+		44,
+		1698,
+		39
+	],
+	"lastmodifieddate": 1710920377.2709999,
+	"createddate": 1710920377.2709999,
+	"name": "chromeIcon/addressBar",
+	"lastfounddate": 1710920378.2309999,
+	"ocrcapturestring": "Search Google or type a URL ☆",
+	"lastfoundlocation": [
+		140,
+		44,
+		1698,
+		39
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[849,19]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chromeIcon/addressBar.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					140,
+					44,
+					1698,
+					39
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Search Google or type a URL ☆"
+			}
+	]
+}

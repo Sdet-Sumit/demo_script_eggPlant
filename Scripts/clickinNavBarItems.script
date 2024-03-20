@@ -1,0 +1,19 @@
+﻿
+
+Set the SearchRectangle to [10,139,1813,179]
+
+//Click text:"Fresh"
+//WaitFor 20, text:"Sell"
+(*Click text:"Amazon miniTV"
+WaitFor 20, text:"Sell"
+Click text:"Sell"
+WaitFor 20, text:"Sell"
+Click text:"Mobiles"
+WaitFor 20, text:"Sell"
+Click text:"Amazon Pay"
+WaitFor 20, text:"Sell"
+Click text:"Fashion"
+WaitFor 20, text:"Sell"*)
+
+Click text:"Mobiles"
+WaitFor 20, text:"Sell"

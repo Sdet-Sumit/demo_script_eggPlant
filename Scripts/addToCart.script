@@ -1,0 +1,31 @@
+﻿//Add to cart
+
+
+Set the SearchRectangle to [304,347,396,536]
+
+Click [304,347]
+
+ScrollWheelDown 1000
+
+WaitFor 10, text: "Sign In"
+
+ScrollWheelUp 1000
+
+//For Searching Item
+//Set the SearchRectangle to [472,96,1474,140]
+
+//Click [472,96]
+Click {Text:"Search Amazon.In", EnableAggressiveTextExtraction:"Yes", WaitFor:8}
+
+TypeText "One Plus 11R", return
+
+WaitFor 20, text:"Results"
+
+Set the SearchRectangle to [661,667,1119,690]
+
+//Click text:"OnePlus 11R 5G (Sonic Black, 8GB RAM, 128GB Storage)"
+Click [891, 677]
+
+Set the SearchRectangle to [1460,794,1665,825]
+
+Click text:"Add to Cart"

@@ -1,0 +1,76 @@
+{
+	"originalcapturelocation": [
+		157,
+		504,
+		64,
+		64
+	],
+	"lastmodifieddate": 1710928510.6009998,
+	"createddate": 1710919605.8429999,
+	"name": "chromeIcon2",
+	"lastfounddate": 1710928177.286,
+	"ocrcapturestring": "iCtiTaVitta",
+	"lastfoundlocation": [
+		157,
+		503,
+		64,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chromeIcon/chromeIcon.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					157,
+					504,
+					64,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "iCtiTaVitta"
+			},
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": 78,
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chromeImages/chromeIcon.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					157,
+					504,
+					64,
+					64
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "iCtiTaVitta"
+			}
+	]
+}

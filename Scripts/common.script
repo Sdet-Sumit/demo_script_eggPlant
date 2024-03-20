@@ -1,0 +1,46 @@
+﻿
+to handle launchBrowser 
+	Log "Launching Browser"
+	put "chromeImages/chromeIcon" into Chrome
+	if ImageFound("chromeImages/chromeIcon")
+	then 
+		//perform action
+		LogSuccess "Image Found"
+		DoubleClick "chromeImages/chromeIcon"
+		
+		
+	else
+		LogWarning "Image not found"
+		
+	end if
+	//DoubleClick imageName:"chromeIcon"
+	Waitfor 20, text:"Google"
+end launchBrowser
+
+---------------------------------------
+to handle loadURL
+	Log "Loading URL"
+	Put "ChromeImages/AmazonInLink" into  url
+	
+	TypeText "amazon",return
+	Waitfor 20, "ChromeImages/AmazonInLink"
+end loadURL
+
+----------------------------------------
+
+to handle clickOnLink
+	
+	//put "chromeImages/amazonLink" into amazonLink
+	//Set the SearchRectangle to [228,318,336,345]
+	Click {Text:"Amazon.In", EnableAggressiveTextExtraction:"Yes", WaitFor:8}
+	Log "Link Found"
+	
+	Click text:"Amazon.In"
+	Set the SearchRectangle to []
+end clickOnLink
+
+
+
+
+
+

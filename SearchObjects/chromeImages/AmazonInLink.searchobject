@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		226,
+		318,
+		108,
+		25
+	],
+	"lastmodifieddate": 1710929712.97,
+	"createddate": 1710929712.97,
+	"name": "chromeImages/AmazonInLink",
+	"lastfounddate": 1710937348.7849998,
+	"ocrcapturestring": "Amazon.in",
+	"lastfoundlocation": [
+		226,
+		805,
+		108,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[54,12]",
+					"Tolerance": "_65",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chromeImages/AmazonInLink.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					226,
+					318,
+					108,
+					25
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Amazon.in"
+			}
+	]
+}
