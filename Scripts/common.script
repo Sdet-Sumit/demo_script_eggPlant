@@ -1,46 +1,82 @@
-﻿
-to handle launchBrowser 
-	Log "Launching Browser"
-	put "chromeImages/chromeIcon" into Chrome
-	if ImageFound("chromeImages/chromeIcon")
-	then 
-		//perform action
-		LogSuccess "Image Found"
-		DoubleClick "chromeImages/chromeIcon"
+﻿//Wait
+
+to  handlerforWait ImageName, wait
+	Put ImageName into ImageName
+	Put 20 into waitDuration
+	Put waitDuration into wait
+end handlerforWait
+
+-----------------------------------------------
+to handle excelReadBrowserPath Value
+	//DB connecttion
+	Set myDB to {type:"excel", file:ResourcePath("BrowserPathFile.xlsx")
+	}
+	
+	//To Access the excel table
+	
+	Put table "BrowserPath" of myDB into myBrowserPath
+	
+	
+	//Fetch the specific record
+	
+	Put the record of myBrowserPath where Name  is "Chrome" into pathRecord
+	
+	
+	Put pathRecord
+	return pathRecord
+	
+	
+end excelReadBrowserPath
+
+-----------------------------------------------------
+to readCSV filePath
+	put CSVValue of file ResourcePath (filePath) into global testData
+	
+	repeat for each item of testData
+		
+		put testData into global testSpecificData
+		
+		Log testSpecificData
+		
+	end repeat
+	
+end readCSV
+
+------------------------------------------------
+to readTestData fileName
+	readCSV fileName
+	put global testSpecificData into global testData
+	
+	
+end readTestData
+
+-------------------------------------------
+to handle toLaunchBrowser testData
+	Click "LaunchBrowser/windowIcon"
+	
+	//Dynamic Wait
+	common.handlerforWait "windowIcon", 20
+	
+	LogSuccess "waited"
+	
+	
+	Click "LaunchBrowser/Searchforappssettingsanddocum"
+	
+	TypeText run,return
+	
+	Click "LaunchBrowser/runwindowInputBox"
+	
+	If ImageFound("LaunchBrowser/runwindowInputBox")
+	then
+		TypeText testData.Directory, return
 		
 		
-	else
-		LogWarning "Image not found"
+		//Else if //ImageFound("LaunchBrowser/perfilledInputBox")
+		//then
 		
-	end if
-	//DoubleClick imageName:"chromeIcon"
-	Waitfor 20, text:"Google"
-end launchBrowser
-
----------------------------------------
-to handle loadURL
-	Log "Loading URL"
-	Put "ChromeImages/AmazonInLink" into  url
-	
-	TypeText "amazon",return
-	Waitfor 20, "ChromeImages/AmazonInLink"
-end loadURL
-
-----------------------------------------
-
-to handle clickOnLink
-	
-	//put "chromeImages/amazonLink" into amazonLink
-	//Set the SearchRectangle to [228,318,336,345]
-	Click {Text:"Amazon.In", EnableAggressiveTextExtraction:"Yes", WaitFor:8}
-	Log "Link Found"
-	
-	Click text:"Amazon.In"
-	Set the SearchRectangle to []
-end clickOnLink
-
-
-
-
-
-
+		//	Click "LaunchBrowser/clickOKbtn"
+	Else
+		LogError "No Image found"
+		
+	End if
+end toLaunchBrowser

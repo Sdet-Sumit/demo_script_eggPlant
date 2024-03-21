@@ -1,0 +1,15 @@
+﻿// Load URL
+
+Click "LaunchBrowser/maximizeWindow"
+Click "LoadURL/MaximiseWindow"
+Click "LoadURL/AddressBar"
+TypeText "Rahul Shetty practice",Return
+Click "LoadURL/ClickPracticePage"
+
+Put ImageRectangle("LoadURL/checkBoxes") into  checkBoxVar
+
+Repeat while yes
+	Click "LoadURL/checkBoxes"
+	
+End repeat
+
