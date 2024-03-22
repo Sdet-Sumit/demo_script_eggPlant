@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		191,
+		56,
+		388,
+		17
+	],
+	"lastmodifieddate": 1711098291.0829999,
+	"createddate": 1711097881.0809999,
+	"name": "URLaddresstoLoad",
+	"lastfounddate": 1711110038.875,
+	"ocrcapturestring": "Search Google or type a URL",
+	"lastfoundlocation": [
+		191,
+		56,
+		232,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[194,8]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "URLAddress/URLaddresstoLoad.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					191,
+					56,
+					388,
+					17
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Search Google or type a URL"
+			}
+	]
+}

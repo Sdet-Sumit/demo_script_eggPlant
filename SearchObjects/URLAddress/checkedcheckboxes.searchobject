@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		770,
+		369,
+		17,
+		22
+	],
+	"lastmodifieddate": 1711104014.3280001,
+	"createddate": 1711104014.3280001,
+	"name": "URLAddress/checkedcheckboxes",
+	"lastfounddate": 1711107353.4349999,
+	"ocrcapturestring": "Q",
+	"lastfoundlocation": [
+		770,
+		369,
+		17,
+		22
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[8,11]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "URLAddress/checkedcheckboxes.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					770,
+					369,
+					17,
+					22
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q"
+			}
+	]
+}

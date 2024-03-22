@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		546,
+		366,
+		121,
+		31
+	],
+	"lastmodifieddate": 1711098461.3569999,
+	"createddate": 1711098461.3569999,
+	"name": "URLAddress/ClickSelectDropDown",
+	"lastfounddate": 1711110050.618,
+	"ocrcapturestring": "Select",
+	"lastfoundlocation": [
+		546,
+		366,
+		121,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[66,12]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "URLAddress/ClickSelectDropDown.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					546,
+					366,
+					121,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Select"
+			}
+	]
+}

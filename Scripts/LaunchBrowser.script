@@ -1,0 +1,35 @@
+﻿//Scroll Window
+
+//ScrollWheelDown 500
+
+//Click "clickWindowIcon"
+//TypeText Run,Return
+//TypeText www.Google.com,Return
+
+
+//2nd Way to launch browser
+//TypeText windowsKey, "r"
+//Click "clickRunInputBox"
+//TypeText "www.google.com",return
+
+//Explicit Wait
+common.launchBrowser
+
+common.readCSV "Sheet1.csv"
+Put global testData into testData
+
+Log testData.Directory
+TypeText testData.Directory,return
+
+Click "ChromeIcon/maximizeWindow"
+
+
+
+
+
+
+
+
+
+
+

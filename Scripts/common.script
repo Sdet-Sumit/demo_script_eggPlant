@@ -1,82 +1,100 @@
-﻿//Wait
+﻿
 
-to  handlerforWait ImageName, wait
-	Put ImageName into ImageName
-	Put 20 into waitDuration
-	Put waitDuration into wait
-end handlerforWait
-
------------------------------------------------
-to handle excelReadBrowserPath Value
-	//DB connecttion
-	Set myDB to {type:"excel", file:ResourcePath("BrowserPathFile.xlsx")
-	}
-	
-	//To Access the excel table
-	
-	Put table "BrowserPath" of myDB into myBrowserPath
-	
-	
-	//Fetch the specific record
-	
-	Put the record of myBrowserPath where Name  is "Chrome" into pathRecord
-	
-	
-	Put pathRecord
-	return pathRecord
-	
-	
-end excelReadBrowserPath
-
------------------------------------------------------
 to readCSV filePath
-	put CSVValue of file ResourcePath (filePath) into global testData
+	Put CSVValue of file ResourcePath(filePath) into global testData
 	
 	repeat for each item of testData
-		
-		put testData into global testSpecificData
-		
-		Log testSpecificData
+		Put testData into global testCSV
 		
 	end repeat
 	
 end readCSV
 
-------------------------------------------------
+-----------------------------------------------
 to readTestData fileName
 	readCSV fileName
-	put global testSpecificData into global testData
-	
+	put global testCSV into global testData
 	
 end readTestData
 
--------------------------------------------
-to handle toLaunchBrowser testData
-	Click "LaunchBrowser/windowIcon"
+---------------------------------------------------
+to handleWait 
+	Put {Wait1:5 seconds, Wait2:10 seconds, Wait3:15 seconds,Wait4:20 seconds} into global waitDuration
+end handleWait
+
+-----------------------------------
+
+to handle launchBrowser
+	common.handleWait 
+	put global waitDuration into  specificWait
+	log specificWait.Wait1
 	
-	//Dynamic Wait
-	common.handlerforWait "windowIcon", 20
+	// Open Run window
+	Typetext windowsKey, "r"
+	wait specificWait.Wait1
 	
-	LogSuccess "waited"
+	//Put "ChromeIcon/clickRunInputBox" into global Image1
+	If ImageFound( "ChromeIcon/clickRunInputBox" )
 	
-	
-	Click "LaunchBrowser/Searchforappssettingsanddocum"
-	
-	TypeText run,return
-	
-	Click "LaunchBrowser/runwindowInputBox"
-	
-	If ImageFound("LaunchBrowser/runwindowInputBox")
 	then
-		TypeText testData.Directory, return
+		LogSuccess "Image found"
+		
+		Click  "ChromeIcon/clickRunInputBox" 
 		
 		
-		//Else if //ImageFound("LaunchBrowser/perfilledInputBox")
-		//then
+	else
 		
-		//	Click "LaunchBrowser/clickOKbtn"
-	Else
-		LogError "No Image found"
+		LogError "Image not Found"
 		
+	End If
+	
+	if ImageFound( "ChromeIcon/clickRunInputBox")
+	
+	then 
+		log "Image clicked Successfully"
+		
+	else 
+		
+		LogError "Image not clicked"
 	End if
-end toLaunchBrowser
+	
+	
+	//Apply wait1 of 5 seconds from list
+	wait specificWait.Wait1
+	
+	//Apply wait1 of 5 seconds from list
+	TypeText controlKey,"a", backspace
+	//Typetext backspace
+	wait specificWait.Wait1
+	
+	//Apply wait1 of 5 seconds from list
+	wait specificWait.Wait1
+end launchBrowser
+
+----------------------------------------------------------
+to readCSV1 filePath
+	Put CSVValue of file ResourcePath(filePath) into global testData
+	
+	//repeat for each item of testData
+	//	Put testData into global testCSV
+		
+	//end repeat
+	
+end readCSV1
+
+-----------------------------------------------
+to readTestData1 fileName
+	readCSV1 fileName
+	put global testCSV into global testData
+	
+end readTestData1
+
+------------------------------------------------------
+to selectDropDownExp value
+	Set SearchRectangle to ["URLAddress/topLeftImage","URLAddress/bottomRight"]
+
+	Put global testData into global value
+	
+	click text:value 
+	
+end selectDropDownExp

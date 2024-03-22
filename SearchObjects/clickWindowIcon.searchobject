@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		19,
+		1042,
+		27,
+		29
+	],
+	"lastmodifieddate": 1711088302.1329999,
+	"createddate": 1711086240.24,
+	"name": "clickWindowIcon",
+	"lastfounddate": 1711086713.744,
+	"ocrcapturestring": "■■",
+	"lastfoundlocation": [
+		19,
+		1042,
+		27,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[13,14]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "ChromeIcon/clickWindowIcon.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					19,
+					1042,
+					27,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "■■"
+			}
+	]
+}

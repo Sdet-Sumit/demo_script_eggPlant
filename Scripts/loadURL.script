@@ -1,15 +1,41 @@
-﻿// Load URL
+﻿//Load URL
+common.handleWait 
+put global waitDuration into  specificWait
+log specificWait.Wait1
+Click "URLAddress/URLaddresstoLoad"
+wait specificWait.Wait1
 
-Click "LaunchBrowser/maximizeWindow"
-Click "LoadURL/MaximiseWindow"
-Click "LoadURL/AddressBar"
-TypeText "Rahul Shetty practice",Return
-Click "LoadURL/ClickPracticePage"
+TypeText RahulShettyPractise,Return
+Click "URLAddress/ClickPracticePageFirstLink"
+wait specificWait.Wait1
 
-Put ImageRectangle("LoadURL/checkBoxes") into  checkBoxVar
 
-Repeat while yes
-	Click "LoadURL/checkBoxes"
+//Perform actions on DropDown
+
+Click "URLAddress/ClickSelectDropDown"
+wait specificWait.Wait1
+
+common.readCSV1 "Sheet2.csv"
+Put global testData into testData
+
+Log testData.Value
+//Click testData.Value,return
+
+common.selectDropDownExp "Option1"
+//put global value into value
+//click value
+
+
+Repeat with EveryImageLocation("URLAddress/checkboxes")
+	click it
+End Repeat
+
+Repeat with EveryImageLocation("URLAddress/checkedcheckboxes")
+	click it
 	
-End repeat
+End Repeat
 
+Repeat with EveryImageLocation("URLAddress/RadioButtons")
+	click it
+	
+End Repeat

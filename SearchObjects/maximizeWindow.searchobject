@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1523,
+		42,
+		16,
+		16
+	],
+	"lastmodifieddate": 1711097690.582,
+	"createddate": 1711097645.036,
+	"name": "maximizeWindow",
+	"lastfounddate": 1711097814.191,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		1533,
+		52,
+		16,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[3,6]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "ChromeIcon/maximizeWindow.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					1523,
+					42,
+					16,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

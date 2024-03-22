@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		229,
+		442,
+		126,
+		23
+	],
+	"lastmodifieddate": 1711098288.7319999,
+	"createddate": 1711098035.7680001,
+	"name": "ClickPracticePageFirstLink",
+	"lastfounddate": 1711110045.457,
+	"ocrcapturestring": "Practice Page",
+	"lastfoundlocation": [
+		229,
+		442,
+		126,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[91,10]",
+					"Tolerance": "_65",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "URLAddress/ClickPracticePageFirstLink.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					229,
+					442,
+					126,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Practice Page"
+			}
+	]
+}

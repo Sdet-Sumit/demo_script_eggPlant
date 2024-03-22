@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		550,
+		416,
+		50,
+		17
+	],
+	"lastmodifieddate": 1711102061.5339999,
+	"createddate": 1711102061.5339999,
+	"name": "URLAddress/Option1",
+	"lastfounddate": 1711103997.4650002,
+	"ocrcapturestring": "Option 1",
+	"lastfoundlocation": [
+		787,
+		373,
+		50,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[27,3]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "URLAddress/Option1.png",
+				"connectionname": "192.168.0.29",
+				"type": 1,
+				"connectionserverid": "192.168.0.29",
+				"capturerect": [
+					550,
+					416,
+					50,
+					17
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Option 1"
+			}
+	]
+}
